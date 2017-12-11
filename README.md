@@ -1,10 +1,10 @@
 # Open-Web-for-Social-Good
 Promoting the usage Open Web tools to increase productivity and efficiency of the work done towards social good
 
-## what are we trying to accomplish?
+## What are we trying to accomplish?
 Enable NGOs and NPOs with Web tools and increase their productivity
 
-## Goals and Plan
+## Work Plan
 ### Step 1:
 Identify Sustainable Development Goals (SDGs) which can have positive impact with usage of Open Web tools
 
@@ -28,3 +28,10 @@ The followings tasks will be taken up as part of this
 
 ### Step 6:
 Study and Analyse the impact of the workshop. Publish the results.
+
+## Timeline
+
+- 4 weeks for Steps 1,2, 3 and 4
+- 6 weeks for Step 5 organise 2 workshops(1 per 3 weeks)
+- 4 weeks for Step 6
+

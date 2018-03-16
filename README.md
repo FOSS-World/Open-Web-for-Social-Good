@@ -1,37 +1,36 @@
-# Open-Web-for-Social-Good
-Promoting the usage Open Web tools to increase productivity and efficiency of the work done towards social good
+# Open Web for Social Good
 
-## What are we trying to accomplish?
-Enable NGOs and NPOs with Web tools and increase their productivity
+**Hello!**
+**Welcome!** 
 
-## Work Plan
-### Step 1:
-Identify Sustainable Development Goals (SDGs) which can have positive impact with usage of Open Web tools
+Thanks for showing interest in this project.
 
-### Step 2:
-Identify NGOs and NPOs operating towards the selected SDGs at local location of the Project(Hyderabad, India)
+Open Internet has many resources that can help any orgaization.
 
-### Step 3:
-Meet with the Organisations and understand their work flow and methodology
+With growing internet connectivity accross globe and increasing number of voices to be heard, internet can help these voices reach out further. It is also important to have safe spaces online to protect Freedom of Expression which is being threatened by the governments and power hoarders from many places around the globe.
 
-### Step 4:
-Identify the Open Web tools which can be used to improve their productivity and efficiency
+Although the number of Non-Government Organizations and Non-Profit Organizations are growing it is never enough. These organisations can collaborate with each other and do great things. Open Web can play a crucial role in giving these collaboration safe and secure place to grow.
 
-### Step 5:
-Partner with the orgaisation(s) to organise training workshops for their staff which will train them in using Open web tools aspart of their work flow
+In this project **Open Web Social Good**, we are going to build safe and secure digital spaces for collaborations and support organizations in using those spaces to create more social impact. 
 
-The followings tasks will be taken up as part of this
-- Call for Volunteers
-- Study the audience to make content of workshop easily understandable
-- Call for speakers of the particular Open Web Tools
-- Other parts of Event Management
+Help us ***Suport Non-Government Organizations and Non-Profit Organizations in using Open Web (Internet) to do their best in doing social good.***
 
-### Step 6:
+## Roadmap
+
+### Milestone 1: *March - April 1*
+Identify Sustainable Development Goals (SDGs) which can have positive impact with usage of Open Web tools.
+
+### Milestone 2: *April 1 - April 7*
+Identify NGOs and NPOs operating towards the selected SDGs at local location of the Project (New Delhi, India) and schedule appointments to understand the needs of the organization(s).
+
+### Milestone 3: *April 8 - April 20*
+Meet with the Organisations and understand their work flow and methodology, their needs.
+
+### Milestone 4: *April 20 - April 31*
+Identify the Open Web tools which can be used to improve their productivity and efficiency. Release a call for Volunteers for organising workshops.
+
+### Milestone 5: *May 1 - May 15*
+Partner with the orgaisation(s) to organise training workshops for their staff which will train them in using Open web tools aspart of their work flow. For this, study the audience to make content of workshop easily understandable; Release a call for speakers.
+
+### Milestone 6: *May 15 - May 31*
 Study and Analyse the impact of the workshop. Publish the results.
-
-## Timeline
-
-- 4 weeks for Steps 1,2, 3 and 4
-- 6 weeks for Step 5 organise 2 workshops(1 per 3 weeks)
-- 4 weeks for Step 6
-

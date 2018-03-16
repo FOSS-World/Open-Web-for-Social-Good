@@ -13,7 +13,7 @@ Although the number of Non-Government Organizations and Non-Profit Organizations
 
 In this project **Open Web Social Good**, we are going to build safe and secure digital spaces for collaborations and support organizations in using those spaces to create more social impact. 
 
-Help us ***Suport Non-Government Organizations and Non-Profit Organizations in using Open Web (Internet) to do their best in doing social good.***
+Help us ***Support Non-Government Organizations and Non-Profit Organizations in using Open Web (Internet) to do their best in doing social good.***
 
 ## Roadmap
 
